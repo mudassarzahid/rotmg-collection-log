@@ -1,0 +1,1 @@
+# rotmg-collection-log
