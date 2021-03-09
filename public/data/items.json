@@ -1,0 +1,548 @@
+[
+  {
+    "name": "Mark of Dreadstump",
+    "img_src": "images/mark_of_dreadstump.png",
+    "img_alt": "mark_of_dreadstump",
+    "tier" : "mark"
+  },
+  {
+    "name": "Pirate Rum",
+    "img_src": "images/pirate_rum.png",
+    "img_alt": "pirate_rum",
+    "tier" : "purple"
+  },
+  {
+    "name": "Corsair Ring",
+    "img_src": "images/corsair_ring.png",
+    "img_alt": "corsair_ring",
+    "tier" : "cyan"
+  },
+  {
+    "name": "Scallywag Slurp",
+    "img_src": "images/scallywag_slurp.png",
+    "img_alt": "scallywag_slurp",
+    "tier" : "gold"
+  },
+  {
+    "name": "First Mate's Hook",
+    "img_src": "images/first_mates_hook.png",
+    "img_alt": "first_mates_hook",
+    "tier" : "orange"
+  },
+  {
+    "name": "Mark of Mama Megamoth",
+    "img_src": "images/mark_of_mama_megamoth.png",
+    "img_alt": "mark_of_mama_megamoth",
+    "tier" : "mark"
+  },
+  {
+    "name": "Speed Sprout",
+    "img_src": "images/speed_sprout.png",
+    "img_alt": "speed_sprout",
+    "tier" : "purple"
+  },
+  {
+    "name": "Bramble Bow",
+    "img_src": "images/bramble_bow.png",
+    "img_alt": "bramble_bow",
+    "tier" : "cyan"
+  },
+  {
+    "name": "Cocoon Quiver",
+    "img_src": "images/cocoon_quiver.png",
+    "img_alt": "cocoon_quiver",
+    "tier" : "cyan"
+  },
+  {
+    "name": "Mark of Arachna",
+    "img_src": "images/mark_of_arachna.png",
+    "img_alt": "mark_of_arachna",
+    "tier" : "mark"
+  },
+  {
+    "name": "Healing Ichor",
+    "img_src": "images/healing_ichor.png",
+    "img_alt": "healing_ichor",
+    "tier" : "purple"
+  },
+  {
+    "name": "Poison Fang Dagger",
+    "img_src": "images/poison_fang_dagger.png",
+    "img_alt": "poison_fang_dagger",
+    "tier" : "cyan"
+  },
+  {
+    "name": "Spider Shuriken",
+    "img_src": "images/spider_shuriken.png",
+    "img_alt": "spider_shuriken",
+    "tier" : "cyan"
+  },
+  {
+    "name": "Spider's Eye Ring",
+    "img_src": "images/spiders_eye_ring.png",
+    "img_alt": "spiders_eye_ring",
+    "tier" : "cyan"
+  },
+  {
+    "name": "Mark of Stheno",
+    "img_src": "images/mark_of_stheno.png",
+    "img_alt": "mark_of_stheno",
+    "tier" : "mark"
+  },
+  {
+    "name": "Wine Cellar Incantation",
+    "img_src": "images/wine_cellar_incantation.png",
+    "img_alt": "wine_cellar_incantation",
+    "tier" : "cyan"
+  },
+  {
+    "name": "Snake Oil",
+    "img_src": "images/snake_oil.png",
+    "img_alt": "snake_oil",
+    "tier" : "purple"
+  },
+  {
+    "name": "Wand of the Bulwark",
+    "img_src": "images/wand_of_the_bulwark.png",
+    "img_alt": "wand_of_the_bulwark",
+    "tier" : "white"
+  },
+  {
+    "name": "Snake Charmer Pungi",
+    "img_src": "images/snake_charmer_pungi.png",
+    "img_alt": "snake_charmer_pungi",
+    "tier" : "white"
+  },
+  {
+    "name": "Snakeskin Shield",
+    "img_src": "images/snakeskin_shield.png",
+    "img_alt": "snakeskin_shield",
+    "tier" : "cyan"
+  },
+  {
+    "name": "Snakeskin Armor",
+    "img_src": "images/snakeskin_armor.png",
+    "img_alt": "snakeskin_armor",
+    "tier" : "cyan"
+  },
+  {
+    "name": "Snake Eye Ring",
+    "img_src": "images/snake_eye_ring.png",
+    "img_alt": "snake_eye_ring",
+    "tier" : "cyan"
+  },
+  {
+    "name": "Acidic Armor",
+    "img_src": "images/acidic_armor.png",
+    "img_alt": "acidic_armor",
+    "tier" : "orange"
+  },
+  {
+    "name": "Pernicious Peridot",
+    "img_src": "images/pernicious_peridot.png",
+    "img_alt": "pernicious_peridot",
+    "tier" : "orange"
+  },
+  {
+    "name": "Mini Stheno Skin",
+    "img_src": "images/mini_stheno_skin.png",
+    "img_alt": "mini_stheno_skin",
+    "tier" : "gold"
+  },
+  {
+    "name": "Mini Flying Stheno Pet Skin",
+    "img_src": "images/mini_flying_stheno_pet_skin.png",
+    "img_alt": "mini_flying_stheno_pet_skin",
+    "tier" : "gold"
+  },
+  {
+    "name": "Mark of Mixcoatl",
+    "img_src": "images/mark_of_mixcoatl.png",
+    "img_alt": "mark_of_mixcoatl",
+    "tier" : "mark"
+  },
+  {
+    "name": "Pollen Powder",
+    "img_src": "images/pollen_powder.png",
+    "img_alt": "pollen_powder",
+    "tier" : "purple"
+  },
+  {
+    "name": "Staff of the Crystal Serpent",
+    "img_src": "images/staff_of_the_crystal_serpent.png",
+    "img_alt": "staff_of_the_crystal_serpent",
+    "tier" : "cyan"
+  },
+  {
+    "name": "Cracked Crystal Skull",
+    "img_src": "images/cracked_crystal_skull.png",
+    "img_alt": "cracked_crystal_skull",
+    "tier" : "cyan"
+  },
+  {
+    "name": "Crystal Bone Ring",
+    "img_src": "images/crystal_bone_ring.png",
+    "img_alt": "crystal_bone_ring",
+    "tier" : "cyan"
+  },
+  {
+    "name": "Robe of the Tlatoani",
+    "img_src": "images/robe_of_the_tlatoani.png",
+    "img_alt": "robe_of_the_tlatoani",
+    "tier" : "cyan"
+  },
+  {
+    "name": "Mark of the Queen Bee",
+    "img_src": "images/mark_of_the_queen_bee.png",
+    "img_alt": "mark_of_the_queen_bee",
+    "tier" : "mark"
+  },
+  {
+    "name": "Bottled Honey",
+    "img_src": "images/bottled_honey.png",
+    "img_alt": "bottled_honey",
+    "tier" : "purple"
+  },
+  {
+    "name": "Orb of Sweet Demise",
+    "img_src": "images/orb_of_sweet_demise.png",
+    "img_alt": "orb_of_sweet_demise",
+    "tier" : "cyan"
+  },
+  {
+    "name": "Honey Scepter",
+    "img_src": "images/honey_scepter.png",
+    "img_alt": "honey_scepter",
+    "tier" : "cyan"
+  },
+  {
+    "name": "Mark of the Fountain Spirit",
+    "img_src": "images/mark_of_the_fountain_spirit.png",
+    "img_alt": "mark_of_the_fountain_spirit",
+    "tier" : "mark"
+  },
+  {
+  "name": "Fairy Dust",
+  "img_src": "images/fairy_dust.png",
+  "img_alt": "fairy_dust",
+  "tier" : "purple"
+  },
+  {
+    "name": "Spirit Staff",
+    "img_src": "images/spirit_staff.png",
+    "img_alt": "spirit_staff",
+    "tier" : "white"
+  },
+  {
+    "name": "Enchantment Orb",
+    "img_src": "images/enchantment_orb.png",
+    "img_alt": "enchantment_orb",
+    "tier" : "white"
+  },
+  {
+    "name": "Woodland Robe",
+    "img_src": "images/woodland_robe.png",
+    "img_alt": "woodland_robe",
+    "tier" : "cyan"
+  },
+  {
+    "name": "Fairy Ring",
+    "img_src": "images/fairy_ring.png",
+    "img_alt": "fairy_ring",
+    "tier" : "cyan"
+  },
+  {
+    "name": "Lifebringing Lotus",
+    "img_src": "images/lifebringing_lotus.png",
+    "img_alt": "lifebringing_lotus",
+    "tier" : "orange"
+  },
+  {
+    "name": "Fountain Child Pet Skin",
+    "img_src": "images/fountain_child_pet_skin.png",
+    "img_alt": "fountain_child_pet_skin",
+    "tier" : "gold"
+  },
+  {
+    "name": "Mark of Limon",
+    "img_src": "images/mark_of_limon.png",
+    "img_alt": "mark_of_limon",
+    "tier" : "mark"
+  },
+  {
+    "name": "Sprite Wand",
+    "img_src": "images/sprite_wand.png",
+    "img_alt": "sprite_wand",
+    "tier" : "cyan"
+  },
+  {
+    "name": "Staff of Extreme Prejudice",
+    "img_src": "images/staff_of_extreme_prejudice.png",
+    "img_alt": "staff_of_extreme_prejudice",
+    "tier" : "white"
+  },
+  {
+    "name": "Cloak of the Planewalker",
+    "img_src": "images/cloak_of_the_planewalker.png",
+    "img_alt": "cloak_of_the_planewalker",
+    "tier" : "white"
+  },
+  {
+    "name": "Sprite Star Pet Skin",
+    "img_src": "images/sprite_star_pet_skin.png",
+    "img_alt": "sprite_star_pet_skin",
+    "tier" : "gold"
+  },
+  {
+    "name": "Gumballs",
+    "img_src": "images/gumballs.gif",
+    "img_alt": "gumballs",
+    "tier" : "purple"
+  },
+  {
+    "name": "Rock Candy",
+    "img_src": "images/rock_candy.png",
+    "img_alt": "rock_candy",
+    "tier" : "purple"
+  },
+  {
+    "name": "Candy Ring",
+    "img_src": "images/candy_ring.png",
+    "img_alt": "candy_ring",
+    "tier" : "cyan"
+  },
+  {
+    "name": "Candy-Coated Armor",
+    "img_src": "images/candy-coated_armor.png",
+    "img_alt": "candy-coated_armor",
+    "tier" : "white"
+  },
+  {
+    "name": "Pixie-Enchanted Sword",
+    "img_src": "images/pixie-enchanted_sword.png",
+    "img_alt": "pixie-enchanted_sword",
+    "tier" : "orange"
+  },
+  {
+    "name": "Seal of the Enchanted Forest",
+    "img_src": "images/seal_of_the_enchanted_forest.png",
+    "img_alt": "seal_of_the_enchanted_forest",
+    "tier" : "orange"
+  },
+  {
+    "name": "Fairy Plate",
+    "img_src": "images/fairy_plate.png",
+    "img_alt": "fairy_plate",
+    "tier" : "orange"
+  },
+  {
+    "name": "Ring of Pure Wishes",
+    "img_src": "images/ring_of_pure_wishes.png",
+    "img_alt": "ring_of_pure_wishes",
+    "tier" : "orange"
+  },
+  {
+    "name": "Mark of the Sandstone Titan",
+    "img_src": "images/mark_of_the_sandstone_titan.png",
+    "img_alt": "mark_of_the_sandstone_titan",
+    "tier" : "mark"
+  },
+  {
+    "name": "Cactus Juice",
+    "img_src": "images/cactus_juice.png",
+    "img_alt": "cactus_juice",
+    "tier" : "purple"
+  },
+  {
+    "name": "Arcane Rapier",
+    "img_src": "images/arcane_rapier.png",
+    "img_alt": "arcane_rapier",
+    "tier" : "white"
+  },
+  {
+    "name": "Amber Encrusted Helmet",
+    "img_src": "images/amber_encrusted_helmet.png",
+    "img_alt": "amber_encrusted_helmet",
+    "tier" : "cyan"
+  },
+  {
+    "name": "Sandstone Seal",
+    "img_src": "images/sandstone_seal.png",
+    "img_alt": "sandstone_seal",
+    "tier" : "cyan"
+  },
+  {
+    "name": "Resplendent Bow",
+    "img_src": "images/resplendent_bow.png",
+    "img_alt": "resplendent_bow",
+    "tier" : "orange"
+  },
+  {
+    "name": "Embellished Quiver",
+    "img_src": "images/embellished_quiver.png",
+    "img_alt": "embellished_quiver",
+    "tier" : "orange"
+  },
+  {
+    "name": "Aquamarine Amulet",
+    "img_src": "images/aquamarine_amulet.png",
+    "img_alt": "aquamarine_amulet",
+    "tier" : "orange"
+  },
+  {
+    "name": "Sand Wanderer Trickster Skin",
+    "img_src": "images/sand_wanderer_trickster_skin.png",
+    "img_alt": "sand_wanderer_trickster_skin",
+    "tier" : "gold"
+  },
+  {
+    "name": "Mark of the Effigy",
+    "img_src": "images/mark_of_the_effigy.png",
+    "img_alt": "mark_of_the_effigy",
+    "tier" : "mark"
+  },
+  {
+    "name": "Ornate Armor",
+    "img_src": "images/ornate_armor.png",
+    "img_alt": "ornate_armor",
+    "tier" : "orange"
+  },
+  {
+    "name": "Mark of Septavius",
+    "img_src": "images/mark_of_septavius.png",
+    "img_alt": "mark_of_septavius",
+    "tier" : "mark"
+  },
+  {
+    "name": "Edictum Praetoris",
+    "img_src": "images/edictum_praetoris.png",
+    "img_alt": "edictum_praetoris",
+    "tier" : "orange"
+  },
+  {
+    "name": "Toga Picta",
+    "img_src": "images/toga_picta.png",
+    "img_alt": "toga_picta",
+    "tier" : "orange"
+  },
+  {
+    "name": "Doom Bow",
+    "img_src": "images/doom_bow.png",
+    "img_alt": "doom_bow",
+    "tier" : "white"
+  },
+  {
+    "name": "Bow of the Morning Star",
+    "img_src": "images/bow_of_the_morning_star.png",
+    "img_alt": "bow_of_the_morning_star",
+    "tier" : "white"
+  },
+  {
+    "name": "Mark of Malphas",
+    "img_src": "images/mark_of_malphas.png",
+    "img_alt": "mark_of_malphas",
+    "tier" : "mark"
+  },
+  {
+    "name": "Demon Blade",
+    "img_src": "images/demon_blade.png",
+    "img_alt": "demon_blade",
+    "tier" : "white"
+  },
+  {
+    "name": "Scorchium Stone",
+    "img_src": "images/scorchium_stone.png",
+    "img_alt": "scorchium_stone",
+    "tier" : "orange"
+  },
+  {
+    "name": "Molten Mantle",
+    "img_src": "images/molten_mantle.png",
+    "img_alt": "molten_mantle",
+    "tier" : "orange"
+  },
+  {
+    "name": "Demon Frog Pet Skin",
+    "img_src": "images/demon_frog_pet_skin.png",
+    "img_alt": "demon_frog_pet_skin",
+    "tier" : "gold"
+  },
+  {
+    "name": "Horned Wyrm Pet Skin",
+    "img_src": "images/horned_wyrm_pet_skin.png",
+    "img_alt": "horned_wyrm_pet_skin",
+    "tier" : "gold"
+  },
+  {
+    "name": "Sword of Illumination",
+    "img_src": "images/sword_of_illumination.png",
+    "img_alt": "sword_of_illumination",
+    "tier" : "white"
+  },
+  {
+    "name": "Mark of Ruthven",
+    "img_src": "images/mark_of_ruthven.png",
+    "img_alt": "mark_of_ruthven",
+    "tier" : "mark"
+  },
+  {
+    "name": "Holy Water",
+    "img_src": "images/holy_water.png",
+    "img_alt": "holy_water",
+    "tier" : "purple"
+  },
+  {
+    "name": "Soulcursed Scythe",
+    "img_src": "images/soulcursed_scythe.png",
+    "img_alt": "soulcursed_scythe",
+    "tier" : "orange"
+  },
+  {
+    "name": "Vampiric Cape",
+    "img_src": "images/vampiric_cape.png",
+    "img_alt": "vampiric_cape",
+    "tier" : "orange"
+  },
+  {
+    "name": "Hallowed Hide",
+    "img_src": "images/hallowed_hide.png",
+    "img_alt": "hallowed_hide",
+    "tier" : "orange"
+  },
+  {
+    "name": "Ruthven's Rosary",
+    "img_src": "images/ruthvens_rosary.png",
+    "img_alt": "ruthvens_rosary",
+    "tier" : "orange"
+  },
+  {
+    "name": "St. Abraham's Wand",
+    "img_src": "images/st_abrahams_wand.png",
+    "img_alt": "st_abrahams_wand",
+    "tier" : "cyan"
+  },
+  {
+    "name": "Tome of Purification",
+    "img_src": "images/tome_of_purification.png",
+    "img_alt": "tome_of_purification",
+    "tier" : "white"
+  },
+  {
+    "name": "Chasuble of the Holy Light",
+    "img_src": "images/chasuble_of_the_holy_light.png",
+    "img_alt": "chasuble_of_the_holy_light",
+    "tier" : "cyan"
+  },
+  {
+    "name": "Ring of Divine Faith",
+    "img_src": "images/ring_of_divine_faith.png",
+    "img_alt": "ring_of_divine_faith",
+    "tier" : "cyan"
+  },
+  {
+    "name": "Vampire Lord",
+    "img_src": "images/vampire_lord.png",
+    "img_alt": "vampire_lord",
+    "tier" : "gold"
+  }
+]
