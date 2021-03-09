@@ -1,5 +1,5 @@
 <p align="center">
-<h3 align="center">ROTMG Collection Log (<i>incomplete</i>)()</h3>
+<h3 align="center">ROTMG Collection Log (<i>incomplete</i>)</h3>
   <p align="center">
   An item collection log for <i><a title="ROTMG" href="https://en.wikipedia.org/wiki/Realm_of_the_Mad_God" target="_blank" rel="noreferrer">Realm of the Mad God</a></i>.
     <br />
